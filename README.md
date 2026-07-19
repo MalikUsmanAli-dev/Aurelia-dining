@@ -18,7 +18,7 @@ The project focuses on elegant storytelling, immersive interactions, sophisticat
 
 # 🌐 Live Demo
 
-**Website:** YOUR_NETLIFY_LINK
+**Website:** https://aurelia-dining.netlify.app/
 
 ---
 
