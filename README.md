@@ -210,8 +210,8 @@ src/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/MalikUsmanAli-dev/Aurelia.git
-cd Aurelia
+git clone https://github.com/MalikUsmanAli-dev/Aurelia-dining.git
+cd Aurelia-dining
 ```
 
 ## Install Dependencies
