@@ -37,8 +37,8 @@ export default function Footer() {
         </div>
       </div>
       <div className="max-w-7xl mx-auto mt-16 pt-6 border-t border-gold/10 flex flex-col md:flex-row justify-between text-xs text-ivory/30 gap-2">
-        <span>© {new Date().getFullYear()} Aurelia Dining. All rights reserved.</span>
         <span>Design by Aurelia Studio</span>
+        <span>© {new Date().getFullYear()} Aurelia Dining. All rights reserved.</span>
       </div>
     </footer>
   );
